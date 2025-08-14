@@ -1,0 +1,1 @@
+Bot ini adalah bot pertama yang saya buat. Bot ini memiliki beberapa fitur, salah satunya adalah mendeteksi gambar burung. disinilah cuplikan gambar bot ini: ![Alt Text]("blob:https://discord.com/b8acba89-6633-45c9-bb7e-4c5ec6923317")
